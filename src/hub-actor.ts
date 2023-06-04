@@ -9,7 +9,7 @@
 // a collection of values, or a complex data structure. Actors can access and consume this 
 // data when they receive updates.
 
-// Callback: A fallback mechanism provides a way to handle scenarios where an Actor is not present 
+// Callback: A callback mechanism provides a way to handle scenarios where an Actor is not present 
 // or cannot receive updates. It ensures that data changes are handled appropriately even in 
 // the absence of certain Actors. This can be achieved through default values, error handling, 
 // or alternative update strategies.
